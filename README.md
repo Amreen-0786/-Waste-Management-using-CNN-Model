@@ -1,5 +1,6 @@
 # Waste Classification using CNN Model
 
+## Dataset : https://www.kaggle.com/datasets/techsash/waste-classification-data/data
 ## In week-1..,
 
 Firstly, the dataset was carefully prepared for training. Images were loaded dynamically from the given file paths, and OpenCV was used for reading and processing them into a consistent format. This ensured the data was clean and ready for use by the CNN model.
