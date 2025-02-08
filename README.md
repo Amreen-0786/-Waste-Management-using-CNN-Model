@@ -36,3 +36,9 @@ Looking ahead, the following steps have been identified to enhance the model's p
 - **Evaluation Metrics**: Incorporating additional metrics like precision, recall, and F1 score to gain a more detailed understanding of the model's classification effectiveness.
 
 These efforts represent a solid foundation in developing a reliable waste classification system. The clear pathways for further optimization demonstrate potential for improving both accuracy and generalization in future iterations.
+
+## In Week-3..,
+
+During Week-3, model training, model testing and model deployment with accuracy and recall visualizations
+
+# Thank You
